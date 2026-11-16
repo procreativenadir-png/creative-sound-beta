@@ -3,6 +3,27 @@
 Panneau pour parcourir, écouter et poser ta sonothèque dans **DaVinci Resolve Studio** (Windows). Projet jumeau de
 Creative Look.
 
+## En bref
+
+- **Il te faut** : Windows 10 ou 11 et DaVinci Resolve **Studio**. La version gratuite n'a pas les Workflow
+  Integrations.
+- **À télécharger** : uniquement `CreativeSound-…-beta.zip`, dans **Releases** (colonne de droite).
+- **À ignorer** : « Source code (zip) » et « Source code (tar.gz) ». GitHub les ajoute tout seul sous chaque
+  version ; ils ne contiennent que cette page, pas le plugin.
+- **À fournir toi-même** : tes sons. Aucun n'est livré : le panneau range ta sonothèque (WAV, MP3, AIFF, FLAC, OGG,
+  M4A) sans rien copier ni déplacer.
+- **Rien d'autre à installer** : ni Python ni autre logiciel. Creative Look est un plugin à part : installe-le
+  seulement si tu veux aussi ses looks.
+
+### Dans l'archive
+
+| Fichier | À faire |
+|---|---|
+| `Installer Creative Sound.bat` | **le seul à double-cliquer**, pour installer comme pour mettre à jour |
+| dossier `Creative Sound` | n'y touche pas : l'installeur le copie au bon endroit |
+| `LISEZ-MOI.txt` | le mode d'emploi en version courte |
+| `Désinstaller Creative Sound.bat` | seulement pour retirer le panneau |
+
 ## Installer
 
 1. Télécharge l'archive de la dernière version dans **Releases** (à droite de cette page).
