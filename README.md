@@ -1,4 +1,4 @@
-# Creative Sound — bêta privée
+# Creative Sound — bêta
 
 Panneau pour parcourir, écouter et poser ta sonothèque dans **DaVinci Resolve Studio** (Windows). Projet jumeau de
 Creative Look.
